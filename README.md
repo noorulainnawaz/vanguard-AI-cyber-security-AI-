@@ -131,7 +131,7 @@ Each prompt is engineered to (1) give the AI just enough structured context from
 
 ## f. Screenshots
 
-*(Add 4+ screenshots below — Landing page, Login/Register with Google button, Dashboard with charts, and the Admin Console overview/user management)*
+
 
 ![Screenshot 1 - Landing Page](screenshots/screenshot1.png)
 ![Screenshot 2 - Login/Register](screenshots/screenshot2.png)
